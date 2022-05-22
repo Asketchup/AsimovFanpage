@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    color: #404040;
+}
+html {
+    margin: 0% 15%;
+}
+
+main {
+    font-size: 130%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5%;
+}
+
+article {
+    margin-top: 5%;
+}
+
+p {
+    margin-top: 1%;
+}

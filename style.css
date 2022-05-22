@@ -1,0 +1,85 @@
+* {
+    margin: 0px;
+    color: #404040;
+}
+html {
+    margin: 0% 15%;
+}
+
+/* ASIMOV header */
+
+header {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+#asimov h1 {
+    font-size: 1000%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* --ASIMOV header end */
+/* ASIMOV Who Is */
+
+main #part1{
+    display: flex;
+    margin-right: 4%;
+    margin-left: 4%;
+    margin-top: 8%;
+}
+
+#imgAsimov {
+    margin-left: 5%;
+}
+
+#whoIs {
+    flex-direction: column;
+    margin-left: 6%;
+    margin-right: 3%;
+}
+
+#whoIs h1 {
+    font-size: 400%;
+    padding-left: 2%;
+}
+#whoIs p {
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5%;
+}
+
+/* --ASIMOV Who Is end */
+/* Foundation */
+main #part2 {
+    margin-top: 6%;
+    display: flex;
+    margin-right: 4%;
+    margin-left: 4%;
+}
+
+#foundation {
+    margin-left: 3%;
+}
+
+#foundation h1 {
+    font-size: 400%;
+    padding-left: 2%;
+}
+
+#foundation p {
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5%;
+}
+
+#imgFoundation {
+    margin-right: 5%;
+    margin-left: 5%;
+}
+/* --Foundation end*/
+/* Footer */
+footer {
+    margin-top: 5%;
+}
+/* --Footer end */

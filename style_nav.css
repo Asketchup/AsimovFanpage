@@ -1,0 +1,29 @@
+/* navigator bar */
+
+nav {
+    display: flex;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0.5%;
+    margin-top: 1%;
+}
+
+#home {
+    padding: 5px;
+    margin: 5px;
+}
+#bio {
+    padding: 5px;
+    margin: 5px;
+}
+#writings {
+    padding: 5px;
+    margin: 5px;
+}
+
+#autor {
+    padding: 5px;
+    margin: 5px;
+}
+
+/* --navigator bar end */
